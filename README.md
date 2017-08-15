@@ -44,8 +44,9 @@
 - Follow the red arrow line ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/arrow.png)to move satellite dish after GPS is available
 - Fine tune dish to maximize signal strength and quality. Signal strength indicator will change to Green once locked
 - Tap the search icon ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/search.png) to search current tp and check the programs
-### Aditional function: Scan to get BISS key
+### Scan qrcode to get BISS key
 - It may pop up qrcode like below on BISS program if the program can not be descrambled
-	> ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/setting.png)
+	> ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/biss.png)
 - Scan the qrcode with DVBFinder ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/qr.png)
-- BISS key will be displayed on DVBFinder, press OK key to input it on STB receiver.
+- BISS key will be displayed on DVBFinder. I
+- Press OK to input the BISS key on STB receiver to watch BISS program.

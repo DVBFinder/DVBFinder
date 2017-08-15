@@ -34,7 +34,7 @@
 
 ### 机顶盒端
 - 首先确保机顶盒已经连接到网络
-- 扫描机顶盒上二维码 "Find Satellite"，使手机连接机顶盒
+- 扫描机顶盒上二维码 "SCAN TO LOCK"，使手机连接机顶盒
 	> ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/boxmenu.png)
 ### 手机端
 - 打开GPS定位功能
@@ -44,4 +44,9 @@
 - GPS定位成功后，按照红色箭头 ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/arrow.png)所指示的方向来调整卫星锅
 - 信号锁定以后，信号强度会变成绿色，微调，使信号强度和信号质量达到最佳状态
 - 点击搜索按钮 ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/search.png) 搜台，并检查节目是否正确
+### 扫码获取BISS KEY
+- 寻星大师也支持扫描获取BISS KEY功能。在支持DVBFinder的机顶盒上，碰到不能解扰的BISS节目，会弹出二维码
+	> ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/biss.png)
+- 使用扫码按钮![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/qr.png)扫描机顶盒上二维码
+- 手机端会返回BISS KEY，把返回的值填入机顶盒即可解密收看。
 
