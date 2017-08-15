@@ -45,8 +45,8 @@
 - Fine tune dish to maximize signal strength and quality. Signal strength indicator will change to Green once locked
 - Tap the search icon ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/search.png) to search current tp and check the programs
 ### Scan qrcode to get BISS key
-- It may pop up qrcode like below on BISS program if the program can not be descrambled
+- It may popup qrcode "SCAN TO WATCH" for scrambled BISS program, like below
 	> ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/biss.png)
 - Scan the qrcode with DVBFinder ![image](https://github.com/DVBFinder/DVBFinder/blob/master/pic/qr.png)
-- BISS key will be displayed on DVBFinder. I
-- Press OK to input the BISS key on STB receiver to watch BISS program.
+- BISS key will be displayed on DVBFinder APP.
+- Press OK to input the BISS key on STB receiver to watch program.
